@@ -79,3 +79,84 @@ nav a:hover{
     margin-top: 15px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Tahoma, Geneva, Verdana, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.fa-solid{
+    font-size: 60px;
+}
+ion-icon {
+    margin-top: -50px;
+    padding: 0;
+    font-size: 150px;
+}
+.fa-user-group{
+    font-size: 30px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.boxint{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 840px;
+}
+.caixa{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 80px;
+}
+.caixinha1{
+    display: flex;
+    width: 50%;
+    max-width: 400px;
+}
+.caixinha2{
+    display: flex;
+    width: 50%;
+    max-width: 400px;
+}
+.caixinha3{
+    display: flex;
+    width: 50%;
+    max-width: 400px;
+}
+.caixinha4{
+    display: flex;
+    width: 50%;
+    max-width: 400px;
+}
+.texto{
+    margin-left: 15px;
+    justify-content: center;
+}
+.texto h2{
+    margin: 0;
+    padding: 0;
+    color: rgb(34, 34, 34);
+}
+.texto h3{
+    margin: 0;
+    padding: 0;
+    margin-top: 2px;
+    font-size: 17px;
+    color: #68686852;
+}
+.texto p{
+    margin: 0;
+    padding: 0;
+    margin-top: 15px;
+    color: #727272;
+}
+.nada{
+    height: 100px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-bottom: 40px;
+    height: 100px;
+}
+.coded{
+    align-items: center;
+    color: #68686870;
+}
