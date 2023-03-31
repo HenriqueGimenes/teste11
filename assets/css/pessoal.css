@@ -185,4 +185,26 @@ footer{
         flex-direction: column;
         justify-content: space-around;
     }
+    .caixinha1{
+        width: 100%;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+    }
+}
+@media only screen and (max-width:599px){
+    .caixa{
+        flex-direction: column;
+    }
+    img{
+        width: 100%;
+        max-width: 500px;
+        height: 100%;
+        max-height: 500px;
+    }
+    .boxint img{
+        justify-content: center;
+        align-items: center;
+    }
 }

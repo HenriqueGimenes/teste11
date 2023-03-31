@@ -135,4 +135,7 @@ footer{
         flex-direction: column;
         justify-content: space-around;
     }
+    .boxint{
+        width: 70%;
+    }
 }
