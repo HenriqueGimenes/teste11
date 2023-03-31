@@ -207,4 +207,7 @@ footer{
         justify-content: center;
         align-items: center;
     }
+    .banner_headline{
+        margin-left: 10px;
+    }
 }

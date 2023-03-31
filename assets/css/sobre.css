@@ -138,4 +138,7 @@ footer{
     .boxint{
         width: 70%;
     }
+    .banner_headline{
+        margin-left: 10px;
+    }
 }
